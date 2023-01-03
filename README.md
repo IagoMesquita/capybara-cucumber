@@ -1,7 +1,7 @@
 # capybara-cucumber
 
-Avançando nos estudas de Testes Automarizados, agora implementando o Capybara para 
-ineragir com os elementos na tela.
+Avançando nos estudos de Testes Automatizados, agora implementando o Capybara para 
+interagir com os elementos na tela.
 
 - Capybara
 - Selenium-Webdriver
